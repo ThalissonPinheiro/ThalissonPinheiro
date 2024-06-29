@@ -14,7 +14,7 @@ Algumas das linguagens com que trabalhei durante o curso:
 
   ##
   
-[![Thalisson github stats](https://github-readme-stats.vercel.app/api?username=uThedz&show_icons=true&theme=dracula)](https://github.com/uthedz/github-readme-stats) 
+[![Thalisson github stats](https://github-readme-stats.vercel.app/api?username=ThalissonPinheiro&show_icons=true&theme=dracula)](https://github.com/uthedz/github-readme-stats) 
  
 <div> 
   <a href="https://www.instagram.com/uthedz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

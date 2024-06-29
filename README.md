@@ -1,7 +1,6 @@
 # Ola! Eu sou o Thalisson Pinheiro
 
 Recém formado como Técnico em Desenvolvimento de Sistemas, estou atrás de uma oportunidade para ingressar na carreira de desenvolvedor.
-Algumas das linguagens com que trabalhei durante o curso:
 
 ### Algumas linguagens usadas em projetos:
 
